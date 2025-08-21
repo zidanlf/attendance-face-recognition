@@ -114,10 +114,8 @@ Name,Date,Time
 john_doe,2024-01-15,09:30:25
 jane_smith,2024-01-15,09:31:10
 ```
+## 📧 Contact
 
-
-## 📞 Contact
-
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- GitHub: [your-github-profile]
+- Email: zidannalfarizi@gmail.com
+- GitHub: [zidanlf](https://github.com/zidanlf)
+- LinkedIn: [Zidan Alfarizi](www.linkedin.com/in/zidanalfarizi)
